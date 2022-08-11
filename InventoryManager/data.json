@@ -1,0 +1,41 @@
+{
+  "TypeOfRice": [
+    {
+      "name": "basumati",
+      "weight": 5,
+      "price": 20
+    },
+    {
+      "name": "Rice 1",
+      "weight": 20,
+      "price": 200
+    }
+  ],
+
+  "TypeOfWheats": [
+    {
+      "name": "xyz",
+      "weight": 5,
+      "price": 20
+    },
+    {
+      "name": "abc",
+      "weight": 20,
+      "price": 100
+    }
+  ],
+
+  "TypeOfPulses": [
+    {
+      "name": "pqr",
+      "weight": 5,
+      "price": 20
+    },
+    {
+      "name": "mln",
+      "weight": 20,
+      "price": 50
+    }
+  ]
+
+}
